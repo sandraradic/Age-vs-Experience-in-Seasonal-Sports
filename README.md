@@ -1,0 +1,13 @@
+# STAT 201 Project: Is Older Better?
+Group Memeber: Kevin Nguyen, Sandra Radic, Tien Nguyen, Alex Romanus
+
+This is our Final Project for STAT 201. The aim of the project was to apply statstical inference skilled we learned throughout the semester to answer a question that we had. We decided to do our investigation on the mean age of first-time Olympic medal winners in the Summer Games vs the Winter Games. Hope you enjoy!
+
+## Introduction
+Every 2 years top athletes are put to the ultimate test - competing at the Olympics amongst their highest competitors. Notoriously, new-talent athletes are introduced at this international event, and winning a medal solidifies their credibility as a top performer (Horne, 2016).
+
+According to Apollaro et al, younger athletes tend to show more success in sports such as taekwondo, due to their physical strength and weight (Apollaro, 2022). However, studies such as by Ford and Williams have demonstrated through experimentation that higher skill level that comes with age contributes to more awards in sports such as soccer (Ford, 2013) or skiing. This leads us to our question: Across the summer and winter Olympics, is there a difference between the mean age of first-time Olympic medal winners?
+
+Based on our research, we predict that there will be a difference in mean age for first-time winners. Furthermore, we predict that Winter Olympic athletes will have an older mean age correlating with their higher skill level. This is because Winter Olympic events generally put more emphasis on long-term skill than physical capabilities that come with youth, which we believe would be a competitive advantage, thus skewing the Winter Olympic data towards older athletes (Ford, 2013).
+
+To conduct this analysis, we will be filtering our dataset of winter and summer Olympic medallists to ensure we only count the age of their debut win towards the mean of the sample population using age, season, and medals. Additionally, we will be using standard deviation as our scale parameter. We will be generalizing age across sports and genders, and assuming that the age of peak performance is similar in all of them. This is because we aim to find the mean age of the average Olympian, regardless of the sport they’re associated with. We hypothesize that due to extraneous demands and reliance on the environment in winter sports, the skill and mental and physical strengths of older athletes will prove more advantageous in the winter compared to the summer. In other words, we believe that there will be a difference between the mean age of first-time medal winners across the Winter and Summer Olympics.
